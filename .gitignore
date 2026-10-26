@@ -1,0 +1,17 @@
+# Personal/generated disk reports never belong in the public prompt repository.
+disk-report/
+reports/
+sizes.csv
+scan.json
+report-data.json
+*-cleanup*.sh
+*-cleanup*.ps1
+*.sqlite
+*.sqlite-*
+*.db
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+node_modules/
